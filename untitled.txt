@@ -1,0 +1,6 @@
+https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
+https://towardsdatascience.com/named-entity-recognition-ner-using-keras-bidirectional-lstm-28cd3f301f54
+https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras
+https://www.aitimejournal.com/@akshay.chavan/introduction-to-conditional-random-fields-crfs
+https://djajafer.medium.com/named-entity-recognition-and-classification-with-keras-4db04e22503d
+https://medium.com/@raghavaggarwal0089/bi-lstm-bc3d68da8bd0
