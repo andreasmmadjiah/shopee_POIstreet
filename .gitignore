@@ -131,3 +131,5 @@ dmypy.json
 
 
 *.csv
+*.h5
+*.mdl_wts.hdf5
